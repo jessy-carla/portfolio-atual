@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 
-const linkedinUrl = 'https://www.linkedin.com/in/j%C3%A9ssika-s-46b532b9/'
+const linkedinUrl = 'https://www.linkedin.com/in/jessika-s-46b532b9'
 const githubUrl = 'https://github.com/jessy-carla'
 const emailUrl = 'mailto:je.carla@hotmail.com.br'
 
